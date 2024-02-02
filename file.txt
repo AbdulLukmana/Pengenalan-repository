@@ -1,4 +1,3 @@
 Front End Developer
 - HTML
 - CSS
-- Javascript
