@@ -2,4 +2,4 @@ Front End Developer
 - HTML
 - CSS
 - Javascript
-- Halo
+- React JS
