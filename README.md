@@ -29,5 +29,6 @@ print("Hello, World!")
 - [ ] Tugas 2
 - [ ] Tugas 3
 
-- [ ] [Google](https://www.google.com)
+[Google](https://www.google.com)
 
+> Ini adalah contoh kutipan.
