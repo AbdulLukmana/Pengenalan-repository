@@ -11,3 +11,20 @@
 def contoh_fungsi():
 print("Hello, World!")
 ```
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+- Item 3
+
+- [x] Tugas 1
+- [ ] Tugas 2
+- [ ] Tugas 3
